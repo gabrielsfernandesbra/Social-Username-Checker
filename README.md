@@ -1,8 +1,8 @@
 # Social Username Checker
 
-API REST para verificar usernames em redes sociais usando Python e FastAPI.
+## API REST para verificar usernames em redes sociais usando Python e FastAPI.
 
-## Redes sociais
+### Redes sociais
 
 - Instagram
 - Facebook
@@ -10,7 +10,7 @@ API REST para verificar usernames em redes sociais usando Python e FastAPI.
 - TikTok
 - Threads
 
-## Tecnologias
+### Tecnologias
 
 - Python
 - FastAPI
@@ -18,7 +18,7 @@ API REST para verificar usernames em redes sociais usando Python e FastAPI.
 - Pydantic
 - Asyncio
 
-## Estrutura
+### Estrutura
 
 ```text
 social-username-checker/
@@ -27,3 +27,9 @@ social-username-checker/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+[Link do projeto](https://social-username-checker.onrender.com/)
+
+```
+Projeto em fase de testes
+```
