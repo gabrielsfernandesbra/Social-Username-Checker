@@ -20,7 +20,7 @@
 
 ### Estrutura
 
-```text
+```bash
 social-username-checker/
 ├── app.py
 ├── checker.py
@@ -28,8 +28,9 @@ social-username-checker/
 ├── README.md
 └── .gitignore
 ```
-[Link do projeto](https://social-username-checker.onrender.com/)
+---
+#### Projeto em fase de testes.
+[LINK DO PROJETO](https://social-username-checker.onrender.com/)
 
-```
-Projeto em fase de testes
-```
+### MIT License • Copyright © 2026 Gabriel S Fernandes
+---
